@@ -1,6 +1,4 @@
-// Homework - 1
-// Submitted by - Akash Gupta
-// Net ID: ag7637
+
 
 #include<iostream>
 #include<iomanip>
